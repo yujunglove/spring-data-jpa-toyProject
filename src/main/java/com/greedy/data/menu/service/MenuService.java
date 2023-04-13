@@ -114,4 +114,9 @@ public class MenuService {
 		//메뉴 명만 수정하니까
 		foundMenu.setMenuName(modifyMenu.getMenuName());
 	}
+	@Transactional
+	public void deleteMenu(Integer menuCode) {
+
+		menuRepository.deleteById(menuCode);
+	}
 }
