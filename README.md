@@ -7,6 +7,6 @@ JPA를 이용한 데이터 조회 및 수정 삭제
 
 # 🌻 MAIN
 <img width="947" alt="image" src="https://github.com/yujunglove/spring-data-jpa-toyProject/assets/120998460/c06a85cd-138b-4fd0-af0d-fc7c70343d0d">
+# 🌻 Implementation Function
+<img width="672" alt="image" src="https://github.com/yujunglove/spring-data-jpa-toyProject/assets/120998460/1d75d9f3-7ce1-4ff2-a799-7d55eb508526">
 
-
-#
