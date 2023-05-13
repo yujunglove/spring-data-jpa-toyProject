@@ -6,12 +6,12 @@ JPA를 이용한 데이터 조회 및 수정 삭제
 <img src="https://img.shields.io/badge/SPRING-00BCB4?style=flat-square&logo=SPRING&logoColor=white"/> <img src="https://img.shields.io/badge/JAVA-E34F26?style=flat-square&logo=JAVA&logoColor=white"/> <img src="https://img.shields.io/badge/JPA-EA4AAA?style=flat-square&logo=JPA&logoColor=white"/>
 
 # 🌻 MAIN
-<img width="947" alt="image" src="https://github.com/yujunglove/spring-data-jpa-toyProject/assets/120998460/c06a85cd-138b-4fd0-af0d-fc7c70343d0d">
+<img width="647" alt="image" src="https://github.com/yujunglove/spring-data-jpa-toyProject/assets/120998460/c06a85cd-138b-4fd0-af0d-fc7c70343d0d">
 
 # 🌻 Implementation Function
-<img width="672" alt="image" src="https://github.com/yujunglove/spring-data-jpa-toyProject/assets/120998460/1d75d9f3-7ce1-4ff2-a799-7d55eb508526">
+<img width="472" alt="image" src="https://github.com/yujunglove/spring-data-jpa-toyProject/assets/120998460/1d75d9f3-7ce1-4ff2-a799-7d55eb508526">
 
 
 # 🌻 ERD_MODEL
-<img width="200" alt="image" src="https://github.com/yujunglove/spring-data-jpa-toyProject/assets/120998460/77bae48b-db7a-4d56-bc10-aaae5469a2af">
+<img width="300" alt="image" src="https://github.com/yujunglove/spring-data-jpa-toyProject/assets/120998460/77bae48b-db7a-4d56-bc10-aaae5469a2af">
 
